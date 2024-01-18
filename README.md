@@ -4,3 +4,5 @@
 https://github.com/owoDra/GameSettingCore
 
 https://github.com/owoDra/GameInputExtension
+
+## [OUTDATED] Game Input Extension から Game Input Core に切り替わるため
